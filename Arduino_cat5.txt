@@ -1,0 +1,850 @@
+
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+<link rel="alternate" hreflang="uk" href="https://arduino.ua/">
+<link rel="alternate" hreflang="ru" href="https://arduino.ua/ru/">
+<link rel="shortcut icon" href="/favicon.ico?ver=1.1" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="MobileOptimized" content="176">
+<title>Arduino Придбати в Києві, Україна</title>
+<meta name="description" content="Продажа плат Arduino, шилдов, датчиков, Raspberry Pi. Официальный представитель Arduino в Украине, гарантия, консультации, поддержка. Доставка курьером по Киеву и почтой по всей Украине." >
+<meta name="keywords" content="arduino, ардуино, шилд, shield, buy, Raspberry Pi, купить" >
+
+<meta property="og:locale" content="ru_RU">
+<link href="/style32_both.css?ver=2.28" type="text/css" rel="stylesheet">
+<link href="/style32.css?ver=2.63" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
+
+<script type="application/ld+json">
+	{ 
+		"@context" : "https://schema.org",
+		"@type" : "Organization",
+		"name": "Arduino в Україні",
+		"address" : {
+			"@type": "PostalAddress",
+			"addressCountry" : "UA",
+			"addressLocality": "Київ",
+			"postalCode": "03022",
+			"streetAddress": "вул. Васильківська, 30"
+		},
+		"contactPoint": [
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (096) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			},
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (066) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			},
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (063) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			}
+		],
+		"email" : "info@arduino.ua",
+		"url" : "https://arduino.ua/",
+		"logo" : "https://arduino.ua/images/tmpl32/logo.jpg",
+		"sameAs" : [ "https://www.facebook.com/arduino.ua/" ]
+	}
+</script>
+<script type="application/ld+json">
+	{
+		"@context" : "https://schema.org",
+		"@type" : "LocalBusiness",
+		"name": "Arduino в Україні",
+		"currenciesAccepted": "UAH",
+		"paymentAccepted": "Готівка, банківська карта, кредитна картка, безготівковий розрахунок",
+		"telephone": "+38 (096) 500-2-500",
+		"address" : {
+			"@type": "PostalAddress",
+			"addressCountry" : "UA",
+			"addressLocality": "Київ",
+			"postalCode": "03022",
+			"streetAddress": "вул. Васильківська, 30"
+		},
+		"contactPoint": [
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (096) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			},
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (066) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			},
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (063) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			}
+		],
+		"openingHours": ["Mo-Fr 08:00-19:00", "Sa 10:00-19:00"],
+		"email" : "info@arduino.ua",
+		"url" : "https://arduino.ua/",
+		"logo" : "https://arduino.ua/images/tmpl32/logo.jpg",
+		"image": "https://arduino.ua/images/tmpl32/logo.jpg",
+		"sameAs" : [ "https://www.facebook.com/arduino.ua/" ],
+		"priceRange" : "1-40000UAH"
+	}
+</script>
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "WebSite",
+		"url": "https://arduino.ua/",
+		"potentialAction": {
+			"@type": "SearchAction",
+			"target": "https://arduino.ua/?searchstring={search_term}",
+			"image": "/images/tmpl32/logo.jpg",
+			"query-input": "required name=search_term" 
+		}
+	}
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-32603122-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-32603122-1');
+
+</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="/images/scripts_orig.js"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '852856732200406');
+fbq('track', 'PageView',{} , {eventID:'3767405117'});
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=852856732200406&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --></head><body onLoad="JQerrorInint()">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="service-menu">
+
+<div class="wrapper">
+
+	<div class="language">	<a href="/" onclick="document.cookie='lang=; path=/; max-age=10368000';return true;">UA</a>
+	<span>RU</span>
+</div>
+
+<a rel="nofollow" class="mobile" href="/ru/?mobile">Мобильная версия</a>
+<a class="mobile" href="/ru/inf4-garantiya" title="Гарантийные условия">Гарантийные условия</a>
+
+<div class="icons">
+<a href="/ru/" title="Ардуино в Украине"><img src="/images/home0000_w.gif" alt="Ардуино в Украине"></a>
+<a href="/ru/feedback" title="Обратная связь"><img src="/images/envelope_w.gif" alt="Обратная связь"></a>
+<a href="/ru/sitemap" title="Карта сайта"><img src="/images/map00000_w.gif" alt="Карта сайта"></a> 
+</div>
+
+<div class="office">
+	<a class="enter" href="/ru/index.php?enter_with_password=yes" title="Вход с паролем">Вход с паролем</a>
+
+<div class="office_popup">
+	<form action="/ru/" method="post" onsubmit="this.enter.value='2';return true;" class="send-form" autocomplete="off">
+<h1>Авторизация</h1>
+<input type="text" name="user_login" placeholder="Логин или телефон" value="">
+<input name="user_pw" type="password"  placeholder="Пароль" value="">
+<input type="submit" class="b_send_message" value="OK"><br />
+<input type="hidden" name="enter" value="1">
+<a href="/ru/index.php?register=yes">Регистрация</a><br>
+<a href="/ru/index.php?logging=yes">Напомнить пароль</a>
+</form>
+</div><!--.office_popup -->
+</div><!--.office -->
+
+<a class="fav-head" href="/ru/index.php?favorite=yes" title="Список желаний"><i class="fa fa-heart"></i> <b class="fav_count">0</b></a>
+
+<a class="fav-head compare-head" href="/ru/index.php?comparison_products=1" title="Cписок сравнения"><i class="fa fa-balance-scale"></i> <b class="compare_count">0</b></a>
+
+</div>
+</div><!-- .service -->
+
+<div class="Wrap">
+
+
+
+<div class="header flex">
+
+<div class="arduino-logo">
+        	<a href="https://arduino.ua/ru/" title="Arduino в Україні">
+    		    			<img src="/images/tmpl32/logo.jpg" alt="Arduino в Україні">
+        </a>
+    </div>
+
+
+
+<div class="arduino-phones">
+	<div class="phones">
+        <a href="tel:0965002500"><span>(096)</span> 500-2-500</a> &nbsp;
+        <a href="tel:0665002500"><span>(066)</span> 500-2-500</a> &nbsp;  
+        <a href="tel:0635002500"><span>(063)</span> 500-2-500</a>
+    </div>
+    <div class="arduino-search">
+                    <form action="/ru/" method='get' id="searchForm" class="ajaxSearch">
+	<input name="search" id="ajaxSearch" placeholder="Поиск" type="text"  AUTOCOMPLETE="off"><input type="submit" value="Поиск" class="ajaxButton">
+</form>
+<script>
+var timeoutRun=false;
+var start = new Date().getTime();
+
+function doSearch(){
+	var search2 = $("#ajaxSearch").val();
+	if(search2.length>2){
+	 	//var elapsed=new Date().getTime();
+	 	//if((elapsed-start)>1000){
+	 	 
+		 $.ajax({
+		   type: "POST",
+		   url: "/ru/ajaxSearch.php",
+		   data: {"search2": search2},
+		   cache: false,                                
+		   success: function(data){
+			  $("#resSearch").html(data);
+			  $("#resSearch").css('display','block');
+		   }
+		 });
+		 //}
+ 	}
+ 	timeoutRun=false;
+ 	return false;
+}
+$(function(){
+  $("#ajaxSearch").keyup(function(){
+    var elapsed=new Date().getTime();
+ 	if((elapsed-start)>1000 && !timeoutRun){
+ 		doSearch();
+ 		timeoutRun=false;
+ 		start=new Date().getTime();
+	}else{
+		if(!timeoutRun){
+			setTimeout(function () {
+			    doSearch();
+			},1000);
+			timeoutRun=true; 
+		}
+	}
+	
+   });
+});
+</script>            <div id="resSearch"></div>
+    </div>
+</div>
+
+
+
+<div class="arduino-work-hours">
+    График работы магазина:<br>
+    Пн-Пт: 8.00 - 19.00<br>
+    Сб: 10.00 - 19.00<br>
+    Вс: выходной<br>
+    </div>
+
+
+</div><!-- .header -->
+
+
+
+
+<ul class="top-menu">
+<li class="first"><a href="/ru/" title="Ардуино в Украине"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+<li class="sale"><a href="/ru/cat17-Rasprodaja" title="Распродажа! - уцененные товары нашего магазина"><i class="fa fa-percent" aria-hidden="true"></i></a></li>
+<li class="forum"><a href="https://forum.arduino.ua/" target="_blank" title="форум Arduino"><i class="fa fa-comments-o" aria-hidden="true"></i> Форум Arduino</a></li>
+<li><a href="/ru/inf3-oplata-i-dostavka" title="Оплата и доставка">Оплата и доставка</a></li>
+<li><a href="/ru/inf12-kontakti" title="Контакты">Контакты</a></li>
+<li><a href="/ru/articles" title="Статьи">Статьи</a></li>
+<li><a href="https://doc.arduino.ua/" target="_blank" title="Описание языка программирования arduino">Документация</a></li>
+<li><a href="/ru/zhalobi-predlozheniya" title="Жалобы / Предложения">Жалобы / Предложения</a></li>
+<li><a href="/ru/warranty_exchange" title="Гарантия / Возврат">Гарантия / Возврат</a></li>
+</ul>
+
+<div style="clear:both;"></div>
+
+<div id="cur-search">
+
+<a class="menu-level-3" href="/ru/catalog_a_z" title="Каталог A-Z">Каталог A-Z</a>
+
+<a class="menu-level-3" href="/ru/index.php?newprods=yes" title="Новинки магазина">Новинки магазина</a>
+
+<a class="menu-level-3" href="/ru/cat271-ojidaem-novinki" title="Ожидаем новинки">Ожидаем новинки</a>
+
+<a class="menu-level-3" href="/rucat165-podarki" title="Подарочные сертификаты, сувениры">Подарочные сертификаты, сувениры</a>
+
+<div class="Resycler">
+<a href="/ru/index.php?shopping_cart=yes" rel="nofollow">
+	<i class="fa fa-shopping-cart" aria-hidden="true"></i>
+					<div id="cart_informer"><span id="shpcrtgc" class="cart_emrty">(нет товаров)</span>
+		        <span id="shpcrtca"></span>
+		        <div id="shpcrtcd"></div></div>
+</a>
+</div>
+
+<div style="clear:both;"></div>
+
+</div><!--#cur-search-->
+
+<div id="content">
+<table style="width:100%;">
+<tr>
+<td style="vertical-align:top; text-align:left; padding:0 5px 5px 0; width:1%;">
+
+
+<div class="blockHead">Каталог
+</div>
+
+<div class="category-tree-full">
+    <ul><li><a href="/ru/cat2-arduinokontrolleri">Arduino контроллеры</a><ul><li><a href="/ru/cat130-arduino-original-italiya">Контроллеры Arduino (original)</a></li><li><a href="/ru/cat131-arduino-kitai">Контроллеры Arduino (Китай)</a></li><li><a href="/ru/cat212-arduino-dlya-razrabotchikov">Arduino для разработчиков</a></li><li><a href="/ru/cat3-plati-rozshiren-arduino">Платы расширений Arduino</a><ul><li><a href="/ru/cat83-silovie">Силовые</a></li><li><a href="/ru/cat84-kommynikacionnie">Коммуникационные</a></li><li><a href="/ru/cat85-prototipirovanie">Прототипирование</a></li><li><a href="/ru/cat86-otobrajenie-informacii">Отображение информации</a></li><li><a href="/ru/cat87-periferiinie">Периферийные</a></li><li><a href="/ru/cat125-audio-zvyk-mp3">Audio, звук, голос, mp3</a></li><li><a href="/ru/cat88-prochie">Прочие</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat132-korpysa-dlya-kontrollerov-arduino">Корпуса для Arduino</a></li><li><a href="/ru/cat133-nabori-na-osnove-kontrollera-arduino">Наборы Arduino KIT</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat15-mini-komputeri">Мини-компьютеры</a><ul><li><a href="/ru/cat371-radxa-rock">Radxa Rock </a></li><li><a href="/ru/cat5-raspberry-pi">Raspberry Pi</a><ul><li><a href="/ru/cat76-mini-komputeri-raspberry-pi">Мини-компьютеры Raspberry Pi</a></li><li><a href="/ru/cat386-kontroleri-plati-rozshirennya-rasperry-pi-pico">Контроллеры, платы расширения Rasperry Pi Pico</a></li><li><a href="/ru/cat245-nabori-raspberry-pi">Наборы Raspberry Pi</a></li><li><a href="/ru/cat74-displei">Дисплеи</a></li><li><a href="/ru/cat73-korpysa">Корпуса</a></li><li><a href="/ru/cat265-ohlajdenie">Охлаждение</a></li><li><a href="/ru/cat75-periferiya-rozshirennya">Периферия, расширения</a></li><li><a href="/ru/cat269-bloki-pitaniya-dlya-raspberry">Блоки питания для Raspberry</a></li><li><a href="/ru/cat102-wifi-i-gsm">WiFi и GSM</a></li><li><a href="/ru/cat103-video">Видеокамеры</a></li><li><a href="/ru/cat216-zvyk">Звук</a></li><li><a href="/ru/cat135-literatyra-po-raspberry">Литература по Raspberry</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat275-nvidia">NVIDIA</a></li><li><a href="/ru/cat69-orange-pi">Orange Pi</a></li><li><a href="/ru/cat180-lattepanda">LattePanda</a></li><li><a href="/ru/cat104-odroid">Odroid</a></li><li><a href="/ru/cat208-beaglebone">BeagleBone</a></li><li><a href="/ru/cat118-friendlyarm">FriendlyARM</a></li><li><a href="/ru/cat138-pine-64">Pine 64</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat387-ohoronna-sistema">Охранная система Ajax</a></li><li><a href="/ru/cat12-sredstva-razrabotki-programmatori">Средства разработки, программаторы</a><ul><li><a href="/ru/cat238-m5stack">M5Stack</a></li><li><a href="/ru/cat215-avr">AVR</a></li><li><a href="/ru/cat222-bbc-microbit">BBC micro:bit</a></li><li><a href="/ru/cat34-rogrammatoriiotladchiki">Программаторы</a></li><li><a href="/ru/cat89-stm32-discovery">STM32 Discovery</a></li><li><a href="/ru/cat148-stm32-nucleo">STM32 Nucleo</a></li><li><a href="/ru/cat99-stm32">STM8, STM32</a></li><li><a href="/ru/cat122-esp8266">ESP8266, ESP32</a></li><li><a href="/ru/cat388-xiao">XIAO</a></li><li><a href="/ru/cat149-fpga">FPGA</a></li><li><a href="/ru/cat150-teensy">Teensy</a></li><li><a href="/ru/cat293-bluetooth">Bluetooth</a></li><li><a href="/ru/cat219-lora">LoRa</a></li><li><a href="/ru/cat114-prochie">Прочие</a></li><li><a href="/ru/cat218-texas-instruments">Texas Instruments</a></li><li><a href="/ru/cat282-nxp">NXP</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat327-karti-pamyati-sd">Карты памяти SD, Флешки</a></li><li><a href="/ru/cat56-nabori">Наборы (DIY Kits), конструкторы</a><ul><li><a href="/ru/cat383-osvitni-stem-nabori">Образовательные STEM наборы</a><ul><li><a href="/ru/cat199-m5stack">M5Stack</a></li><li><a href="/ru/cat110-obrazovatelnie-stem-nabori-arduino">Arduino</a></li><li><a href="/ru/cat244-obrazovatelnie-nabori-raspberry-pi">Raspberry Pi</a></li><li><a href="/ru/cat224-obrazovatelnie-stem-nabori-microbit">Micro:bit</a></li><li><a href="/ru/cat247-nabori-arduino-ymnii-dom-priroda">Умный Дом, Природа</a></li><li><a href="/ru/cat361-stem-konstryktori">STEM-конструкторы</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat163-seriya-prakticheskaya-elektronika">"Практическая электроника"</a></li><li><a href="/ru/cat287-radiokonstryktori">Радиоконструкторы</a></li><li><a href="/ru/cat112-nabori-sdelai-sam">Конструкторы "Сделай сам"</a></li><li><a href="/ru/cat111-nabori-radiodetalei">Наборы радиодеталей</a></li><li><a href="/ru/cat113-nabori-komponentov">Наборы компонентов</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee">RF, Wi-Fi, Bluetooth, GSM, GPS, FM, XBee</a><ul><li><a href="/ru/cat370-antenni">Антенны</a></li><li><a href="/ru/cat95-rfid">RFID, NFC</a></li><li><a href="/ru/cat126-wi-fi-esp8266">Wi-Fi ESP8266, ESP32</a></li><li><a href="/ru/cat96-wi-fi">Wi-Fi</a></li><li><a href="/ru/cat119-gsm-gprs">GSM, GPRS</a></li><li><a href="/ru/cat97-bluetooth">Bluetooth</a></li><li><a href="/ru/cat98-radiomodyli">Радиомодули</a></li><li><a href="/ru/cat115-xbee-i-drygie-bee">XBee и другие *Bee</a></li><li><a href="/ru/cat120-gps">GPS</a></li><li><a href="/ru/cat162-fm">FM</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat193-sonoff-ymnii-dom">SONOFF Умный дом</a><ul><li><a href="/ru/cat239-wi-fi-vikluchateli">Wi-Fi выключатели</a></li><li><a href="/ru/cat241-wi-fi-ymnie-rozetki">Wi-Fi умные розетки</a></li><li><a href="/ru/cat242-wi-fi-osveshhenie">Wi-Fi освещение</a></li><li><a href="/ru/cat243-datchiki">Датчики</a></li><li><a href="/ru/cat283-wi-fi-kameri">Wi-Fi камеры</a></li><li><a href="/ru/cat267-sonoff-korpysa">Корпуса</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat14-displei">Дисплеи</a><ul><li><a href="/ru/cat121-tft-displei-hdmi">TFT дисплеи (HDMI)</a></li><li><a href="/ru/cat281-tft-displei-v-korpyse-hdmi-vga-av">TFT дисплеи в корпусе (HDMI, VGA, AV)</a></li><li><a href="/ru/cat29-displei">TFT дисплеи (модули, шилды)</a></li><li><a href="/ru/cat123-tft-hmi-paneli-nextion">TFT HMI панели NEXTION</a></li><li><a href="/ru/cat31-displei">LCD дисплеи</a></li><li><a href="/ru/cat82-oled-displei">OLED дисплеи</a></li><li><a href="/ru/cat292-e-ink">E-Ink (жидкие чернила)</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat343-zvyk-mp3">Звук, mp3</a><ul><li><a href="/ru/cat345-vosproizvedenie">Воспроизведение</a></li><li><a href="/ru/cat344-zapis">Запись</a></li><li><a href="/ru/cat342-ysilenie">Усиление</a></li><li><a href="/ru/cat338-dinamiki">Динамики</a></li><li><a href="/ru/cat339-mikrofoni">Микрофоны</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat6-atchiki">Датчики</a><ul><li><a href="/ru/cat78-zvyk-yltrazvyk">Звук, ультразвук</a></li><li><a href="/ru/cat77-osveshhenie-ik-ogon-yltrafiolet">Освещение, ИК, огонь, ультрафиолет</a></li><li><a href="/ru/cat321-dvijenie-rasstoyanie">Движение, расстояние</a></li><li><a href="/ru/cat38-emperatyravlajnost">Температура, влажность</a></li><li><a href="/ru/cat37-kselerometrigiroskopi">Акселерометры, гироскопы</a></li><li><a href="/ru/cat80-napryajenie--tok">Напряжение, ток</a></li><li><a href="/ru/cat79-gaz-dim-pil-vozdyh">Газ, дым, пыль, воздух</a></li><li><a href="/ru/cat320-davlenie">Давление</a></li><li><a href="/ru/cat36-dlya-jidkostei">Для жидкостей</a></li><li><a href="/ru/cat319-datchiki-ph-himicheskii-analiz">Ph, химический анализ</a></li><li><a href="/ru/cat147-mehanicheskie-vozdeistviya">Механические воздействия</a></li><li><a href="/ru/cat195-indyktivnie-datchiki">Индуктивные датчики</a></li><li><a href="/ru/cat322-magnitnoe-pole">Магнитное поле</a></li><li><a href="/ru/cat331-medicina-zdorove">Медицина, здоровье</a></li><li><a href="/ru/cat81-prochee">Прочее</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat9-robototehnika">Робототехника</a><ul><li><a href="/ru/cat20-roboti">Роботы колесные</a></li><li><a href="/ru/cat249-roboti-gysenichnie">Роботы гусеничные</a></li><li><a href="/ru/cat250-roboti-shagaushhie">Роботы шагающие</a></li><li><a href="/ru/cat232-roboti-manipylyatori">Роботы-манипуляторы</a></li><li><a href="/ru/cat223-robo-platformi-shassi">Робо-платформы, шасси</a></li><li><a href="/ru/cat273-mejplatnie-stoiki">Межплатные стойки</a></li><li><a href="/ru/cat274-shesterni-passiki-vtylki-kronshteini">Шестерни, пассики, втулки, кронштейны</a></li><li><a href="/ru/cat280-kolesa">Колеса</a></li><li><a href="/ru/cat24-rochee">Прочее</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat261-motori-shagovie-dvigateli-servoprivodi-draivera">Двигатели, драйверы</a><ul><li><a href="/ru/cat21-servoprivodi">Сервоприводы</a></li><li><a href="/ru/cat325-servoprivodi-cifrovie">Сервоприводы Цифровые </a></li><li><a href="/ru/cat22-hagoviedvigateli">Шаговые двигатели</a></li><li><a href="/ru/cat348-lineinie-privodi-aktyatori">Линейные приводы актуаторы</a></li><li><a href="/ru/cat72-motori">Моторы</a></li><li><a href="/ru/cat263-motori-dlya-avia-modelei">Моторы для авиа-моделей</a></li><li><a href="/ru/cat23-raiveri">Драйверы и контроллеры</a></li><li><a href="/ru/cat262-prochee">Прочее</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat298-nasosi-pompi-elektromagnitnie-klapani">Насосы, помпы, электромагнитные клапаны</a></li><li><a href="/ru/cat4-kabeli-provoda-perehodniki-shnyri-pitaniya-habi">Кабели, провода, переходники, шнуры питания, хабы</a><ul><li><a href="/ru/cat191-provoda-montajnie-kabeli">Провода монтажные, кабели</a></li><li><a href="/ru/cat291-kabel-awg">Кабель AWG</a></li><li><a href="/ru/cat187-kabeli-220">220В</a></li><li><a href="/ru/cat188-usb">USB</a></li><li><a href="/ru/cat278-usb-habi">USB-хабы</a></li><li><a href="/ru/cat189-hdmi">HDMI</a></li><li><a href="/ru/cat190-ethernet">Ethernet</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat11-aketirovanie">Макетирование</a><ul><li><a href="/ru/cat39-maketni-plati">Безпаечные макетные плати</a></li><li><a href="/ru/cat164-maketnie-plati-pod-paiky">Макетные платы под пайку</a></li><li><a href="/ru/cat248-steklotekstolit">Стеклотекстолит</a></li><li><a href="/ru/cat40-rovodaperemichki">Провода, перемычки</a></li><li><a href="/ru/cat197-knopki-klaviatyri">Кнопки, клавиатуры</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat276-razemi-konnektori-klemmniki">Разъемы, коннекторы, клеммники</a><ul><li><a href="/ru/cat323-razemi-nizkovoltnie-dc">Разъемы низковольтные DC</a></li><li><a href="/ru/cat324-razemi-usb">Разъемы USB</a></li><li><a href="/ru/cat41-razemi">Разъемы</a></li><li><a href="/ru/cat288-razemi-xh">Разъемы XH</a></li><li><a href="/ru/cat91-konnektori">Коннекторы</a></li><li><a href="/ru/cat289-konnektori-dupont">Коннекторы Dupont</a></li><li><a href="/ru/cat290-konnektori-pls-pbs">Коннекторы PLS, PBS</a></li><li><a href="/ru/cat268-klemmniki">Клеммники</a></li><li><a href="/ru/cat277-vch-razemi-i-perehodniki">ВЧ-разъемы и переходники BNC</a></li><li><a href="/ru/cat326-sma-razemi-i-perehodniki">SMA разъемы и переходники</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat10-radiodetali">Радиодетали</a><ul><li><a href="/ru/cat181-polyprovodniki">Полупроводники</a></li><li><a href="/ru/cat366-mikrokontrolleri">Микроконтроллеры</a></li><li><a href="/ru/cat183-rezistori">Резисторы</a></li><li><a href="/ru/cat334-rezistori-peremennie">Резисторы переменные</a></li><li><a href="/ru/cat346-rezistori-podstroechnie">Резисторы подстроечные</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat67-rele">Реле</a><ul><li><a href="/ru/cat173-elektromehanicheskie">Электромеханические</a></li><li><a href="/ru/cat174-tverdotelnie">Твердотельные</a></li><li><a href="/ru/cat175-ystroistva-na-baze-rele">Устройства на базе реле</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat295-vimikachi-peremikachi-knopki">Выключатели, переключатели, кнопки</a><ul><li><a href="/ru/cat198-vikluchateli-perekluchateli">Выключатели, переключатели</a></li><li><a href="/ru/cat335-distancionnie-vikluchateli">Дистанционные выключатели</a></li><li><a href="/ru/cat294-knopki">Кнопки</a></li><li><a href="/ru/cat296-konceviki">Концевики</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat68-perehodniki-konvertori">Конвертеры, преобразователи</a><ul><li><a href="/ru/cat167-usb-uart-ttl">USB - UART - TTL</a></li><li><a href="/ru/cat168-rs232-rs485-db9">RS232, RS485, DB9</a></li><li><a href="/ru/cat169-video-vga-hdmi-dvi">Відео, VGA, HDMI, DVI</a></li><li><a href="/ru/cat94-peretvoruvachi-rivniv">Преобразователи уровней</a></li><li><a href="/ru/cat170-prochie">Прочие</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat259-led">LED</a><ul><li><a href="/ru/cat375-fonariki">Фонарики </a></li><li><a href="/ru/cat376-svetodiodnie-lampi">Светодиодные лампы</a></li><li><a href="/ru/cat30-vetodiodi">Светодиоды</a></li><li><a href="/ru/cat137-svetodiodnie-modyli">Светодиодные модули</a></li><li><a href="/ru/cat236-svetodiodnie-indikatori">Светодиодные индикаторы</a></li><li><a href="/ru/cat264-svetodiodnie-lenti">Светодиодные ленты</a></li><li><a href="/ru/cat279-svetodiodnie-lenti-soediniteli-konnektori-razemi">Светодиодные ленты (периферия)</a></li><li><a href="/ru/cat101-draiveri-svetodiodov">Контроллеры и драйверы светодиодов</a></li><li><a href="/ru/cat116-lazeri">Лазеры</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat378-elektrojivlennya">Электропитание</a><ul><li><a href="/ru/cat377-invertori">Инверторы</a></li><li><a href="/ru/cat362-preobrazovateli-napryajeniya-stabilizatori">Преобразователи, стабилизаторы, диммеры</a><ul><li><a href="/ru/cat70-stabilizatori-napryajeniya">Стабилизаторы напряжения</a></li><li><a href="/ru/cat26-reobrazovateli">Преобразователи повышающие</a></li><li><a href="/ru/cat178-preobrazovateli-ponijaushhie">Преобразователи понижающие</a></li><li><a href="/ru/cat368-preobrazovateli-dvynapravlennie">Преобразователи двунаправленные</a></li><li><a href="/ru/cat284-dimmeri-silovie-kluchi-regylyatori-moshhnosti">Силовые ключи, регуляторы мощности</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat379-merejevi-djerela-jivlennya">Сетевые источники питания</a><ul><li><a href="/ru/cat27-bloki-pitaniya">Блоки питания</a></li><li><a href="/ru/cat200-bloki-pitaniya-negermetichnie">Блоки питания негерметичные</a></li><li><a href="/ru/cat201-modyli-pitaniya">Модули питания</a></li><li><a href="/ru/cat272-laboratornie-bloki-pitaniya">Лабораторные блоки питания</a></li><li><a href="/ru/cat258-kabeli-pitaniya-perehodniki">Кабели питания, переходники</a></li><li><a href="/ru/cat260-setevie-filtri-ydliniteli">Сетевые фильтры-удлинители</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat380-avtonomni-djerela-jivlennya">Автономные источники питания</a><ul><li><a href="/ru/cat381-modyli-bms">Модули BMS</a></li><li><a href="/ru/cat25-akkymylyatori-li-po">Аккумуляторы Li-Po</a></li><li><a href="/ru/cat332-akkymylyatori-li-po-formatnie">Аккумуляторы Li-Po (форматные)</a></li><li><a href="/ru/cat220-akkymylyatori-nimh">Аккумуляторы NiMH</a></li><li><a href="/ru/cat221-akkymylyatori-li-ion-18650">Аккумуляторы Li-Ion, 18650</a></li><li><a href="/ru/cat390-akymylyatori-lifepo4">Аккумуляторы LiFePo4</a></li><li><a href="/ru/cat349-akkymylyatori-gelevie">Аккумуляторы Гелевые, AGM</a></li><li><a href="/ru/cat194-batareiki">Батарейки</a></li><li><a href="/ru/cat367-testeri-batareek-i-akkymylyatorov">Тестеры батареек и аккумуляторов</a></li><li><a href="/ru/cat369-portativnie-batarei-powerbank">Портативные батареи Powerbank</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat297-zaryadni-pristroi">Зарядные устройства</a><ul><li><a href="/ru/cat32-aryadnieystroistva">Зарядные устройства</a></li><li><a href="/ru/cat211-zaryadni-modyli">Зарядные модули</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat225-batareini-vidsiki">Батарейные отсеки</a><ul><li><a href="/ru/cat117-batareinie-otseki-18650">Батарейные отсеки 18650</a></li><li><a href="/ru/cat357-batareinie-otseki-aa">Батарейные отсеки AA</a></li><li><a href="/ru/cat358-batareinie-otseki-aaa">Батарейные отсеки AAA</a></li><li><a href="/ru/cat359-batareinie-otseki-prochie">Батарейные отсеки прочие</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat28-sonyachna-energiya">Солнечная энергия</a></li><li><a href="/ru/cat384-zapobijniki">Предохранители</a></li><li><a href="/ru/cat33-inshe">Прочее</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat179-ystroistva-vvoda-klaviatyri-djoistiki">Устройства ввода, клавиатуры, джойстики</a></li><li><a href="/ru/cat35-etaushhieapparati">Детали для летающих аппаратов</a><ul><li><a href="/ru/cat58-telemetriya">Телеметрия</a></li><li><a href="/ru/cat60-poletnie-kontrolleri">Полетные контроллеры</a></li><li><a href="/ru/cat48-pparatyra-ypravleniya">Радио аппаратура, приемники</a></li><li><a href="/ru/cat49-lektronika">Регуляторы хода ESC</a></li><li><a href="/ru/cat50-rami-shasi-korpysi">Рамы, шасси, корпуса</a></li><li><a href="/ru/cat51-inti--propelleri">Винты, пропеллеры</a></li><li><a href="/ru/cat52-otori">Моторы</a></li><li><a href="/ru/cat59-gps-i-kompas">GPS и компас</a></li><li><a href="/ru/cat100-fpv">FPV</a></li><li><a href="/ru/cat62-razemi-konnektori">Разъемы, коннекторы</a></li><li><a href="/ru/cat285-provoda-kabeli-perehodniki">Провода, кабели, переходники</a></li><li><a href="/ru/cat64-datchiki-toka--beci">Датчики тока, BECи</a></li><li><a href="/ru/cat61-others">Прочее</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat186-ohlajdenie">Охлаждение</a><ul><li><a href="/ru/cat374-ventilyatori">Вентиляторы</a><ul><li><a href="/ru/cat307-ventilyatori-30x30">Вентиляторы 30x30</a></li><li><a href="/ru/cat350-ventilyatori-40x40">Вентиляторы 40x40</a></li><li><a href="/ru/cat351-ventilyatori-50x50">Вентиляторы 50x50</a></li><li><a href="/ru/cat352-ventilyatori-60x60">Вентиляторы 60x60</a></li><li><a href="/ru/cat353-ventilyatori-70x70">Вентиляторы 70x70</a></li><li><a href="/ru/cat354-ventilyatori-80x80">Вентиляторы 80x80</a></li><li><a href="/ru/cat355-ventilyatori-90x90">Вентиляторы 90x90</a></li><li><a href="/ru/cat356-ventilyatori-120x120">Вентиляторы 120x120</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat305-radiatori">Радиаторы</a></li><li><a href="/ru/cat306-termopasti-teploprovodyashhie-kleya">Термопасты, теплопроводящие клея</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat382-instrymenti-obladnannya">Инструменты, оборудование</a><ul><li><a href="/ru/cat152-payalnoe-oborydovanie">Паяльное оборудование</a><ul><li><a href="/ru/cat251-payalniki-i-nabori">Паяльники и наборы</a></li><li><a href="/ru/cat252-payalnie-stancii">Паяльные станции</a></li><li><a href="/ru/cat253-feni-gazovie-gorelki-i-payalniki">Фены, газовые горелки и паяльники</a></li><li><a href="/ru/cat254-payalnie-aksessyari">Паяльные аксессуары</a></li><li><a href="/ru/cat257-flusi-payalnie-pasti">Флюсы, паяльные пасты</a></li><li><a href="/ru/cat256-pripoi">Припой</a></li><li><a href="/ru/cat255-jala-dlya-payalnikov">Жала для паяльников</a></li><li><a href="/ru/cat209-payalnie-rashodniki">Другие паяльные расходники</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat92-izmeritelnie-pribori">Измерительные приборы</a><ul><li><a href="/ru/cat141-myltimetri">Мультиметры</a></li><li><a href="/ru/cat142-oscillografi">Осциллографы</a></li><li><a href="/ru/cat333-shypi-zajimi">Щупы, зажимы</a></li><li><a href="/ru/cat140-izmeritelnie-modyli">Измерительные модули</a></li><li><a href="/ru/cat144-testeri-elementov-kabelei">Тестеры элементов, кабелей</a></li><li><a href="/ru/cat143-prochie">Температура</a></li><li><a href="/ru/cat330-generatori-signalov">Генераторы сигналов</a></li><li><a href="/ru/cat385-inshi">Другие</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat18-rychnii-instryment">Ручной инструмент</a><ul><li><a href="/ru/cat300-kysachki-bokorezi-passatiji">Кусачки, бокорезы, пассатижы</a></li><li><a href="/ru/cat301-noji-skalpeli-nojnici">Ножи, скальпели, ножницы</a></li><li><a href="/ru/cat302-otvertki-kluchi">Отвертки, ключи</a></li><li><a href="/ru/cat303-pinceti-nabori-dlya-remonta">Пинцеты, наборы для ремонта</a></li><li><a href="/ru/cat304-shyrypoverti-dreli-sverla">Шуруповерты, дрели, сверла</a></li><li><a href="/ru/cat308-myltityl">Мультитул</a></li><li><a href="/ru/cat309-kleevie-pistoleti">Клеевые пистолеты</a></li><li><a href="/ru/cat311-lineiki-ryletki">Линейки, рулетки</a></li><li><a href="/ru/cat312-kleshhi-objim-opressovka-semniki-izolyacii">Клещи (обжим, опрессовка), съемники изоляции</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat153-nabori-komponentov">Наборы компонентов</a></li><li><a href="/ru/cat154-kassetnici-organaizeri-sortoviki">Кассетницы, органайзеры, сортовики</a></li><li><a href="/ru/cat286-kleya">Клея</a></li><li><a href="/ru/cat310-izolenta-skotch-termoysadka">Изолента, скотч, термоусадка</a></li><li><a href="/ru/cat156-prochie-instrymenti">Прочие инструменты</a></li><li><a href="/ru/cat157-neodimovie-magniti">Магниты неодимовые</a><ul><li><a href="/ru/cat159-pryamoygolnie">Прямоугольные</a></li><li><a href="/ru/cat160-disk">Круглые</a></li><li><a href="/ru/cat161-krepejnie">Крепежные</a></li><li><a href="/ru/cat237-magniti-neodimovie-kolca">Кольца</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat65-gotovie-ystroistva">Готовые устройства</a></li><li><a href="/ru/cat373-3d">3D</a><ul><li><a href="/ru/cat63-3d-printeri">3D принтеры и ЧПУ</a><ul><li><a href="/ru/cat128-podshipniki-polimernie">Подшипники полимерные</a></li><li><a href="/ru/cat313-podshipniki-lineinie">Подшипники линейные</a></li><li><a href="/ru/cat314-podshipniki-radialnie">Подшипники радиальные</a></li><li><a href="/ru/cat315-vali-myfti-gaiki">Валы, муфты, гайки</a></li><li><a href="/ru/cat316-koncevie-opori">Концевые опоры</a></li><li><a href="/ru/cat317-podshipniki-flancevie">Подшипники фланцевые</a></li><li><a href="/ru/cat318-shkivi-remni">Шкивы, ремни</a></li><li><a href="/ru/cat127-elektronika">Электроника</a></li><li><a href="/ru/cat192-dvigateli">Двигатели</a></li><li><a href="/ru/cat171-draiveri">Драйверы</a></li><li><a href="/ru/cat129-ekstryderi--stoli">Экструдеры, Столы</a></li><li><a href="/ru/cat139-ohlajdenie">Охлаждение</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat172-3d-plastik-monofilament">3D пластик Monofilament</a><ul><li><a href="/ru/cat202-abs">ABS</a></li><li><a href="/ru/cat203-pla">PLA</a></li><li><a href="/ru/cat204-copet">coPET</a></li><li><a href="/ru/cat205-hips">HIPS</a></li><li><a href="/ru/cat206-elastan">ELASTAN</a></li><li><a href="/ru/cat226-san">SAN</a></li><li><a href="/ru/cat233-pet">PET</a></li><li><a href="/ru/cat234-pbt">PBT</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat228-3d-plastik-plexiwire-filament">3D пластик Plexiwire Filament</a><ul><li><a href="/ru/cat270-abs">ABS</a></li><li><a href="/ru/cat231-3d-plastik-abs-plus">ABS+</a></li><li><a href="/ru/cat229-pla">PLA</a></li><li><a href="/ru/cat341-flex">FLEX</a></li><li><a href="/ru/cat230-nylon">NYLON</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat176-termoplastik-polikaprolakton-dlya-lepki">Термопластик поликапролактон для лепки</a></li><li><a href="/ru/cat360-3d-rychki">3D Ручки</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat8-rochee">Прочее</a></li><li><a href="/ru/cat71-literatyra">Литература</a></li><li><a href="/ru/cat17-rasprodaja">Распродажа</a></li><li><a href="/ru/cat184-korpysa-yniversalnie-nojki">Корпуса универсальные, ножки</a><ul><li><a href="/ru/cat363-korpysa">Корпуса</a></li><li><a href="/ru/cat364-nojki-dlya-korpysov">Ножки для корпусов</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/ru/cat134-arhivnie-tovari">Архивные товары</a></li></ul>
+</div>
+
+<div class="clear"></div>
+
+
+
+<div class="tags">			<a href="/ru/tag-1.2%D0%90" title="1.2А" style="font-size: 103%;font-weight: 200;">1.2А</a> 
+				<a href="/ru/tag-1.6%D0%90" title="1.6А" style="font-size: 101%;font-weight: 200;">1.6А</a> 
+				<a href="/ru/tag-10%D0%90" title="10А" style="font-size: 101%;font-weight: 200;">10А</a> 
+				<a href="/ru/tag-12.5%D0%90" title="12.5А" style="font-size: 103%;font-weight: 200;">12.5А</a> 
+				<a href="/ru/tag-12%D0%92" title="12В" style="font-size: 125%;font-weight: 200;">12В</a> 
+				<a href="/ru/tag-16.6%D0%90" title="16.6А" style="font-size: 103%;font-weight: 200;">16.6А</a> 
+				<a href="/ru/tag-1%D0%90" title="1А" style="font-size: 104%;font-weight: 200;">1А</a> 
+				<a href="/ru/tag-2.1%D0%90" title="2.1А" style="font-size: 103%;font-weight: 200;">2.1А</a> 
+				<a href="/ru/tag-2.4%D0%90" title="2.4А" style="font-size: 101%;font-weight: 200;">2.4А</a> 
+				<a href="/ru/tag-2.5%D0%90" title="2.5А" style="font-size: 103%;font-weight: 200;">2.5А</a> 
+				<a href="/ru/tag-20%D0%90" title="20А" style="font-size: 101%;font-weight: 200;">20А</a> 
+				<a href="/ru/tag-24%D0%92" title="24В" style="font-size: 106%;font-weight: 200;">24В</a> 
+				<a href="/ru/tag-29%D0%90" title="29А" style="font-size: 101%;font-weight: 200;">29А</a> 
+				<a href="/ru/tag-2%D0%90" title="2А" style="font-size: 110%;font-weight: 200;">2А</a> 
+				<a href="/ru/tag-33%D0%90" title="33А" style="font-size: 101%;font-weight: 200;">33А</a> 
+				<a href="/ru/tag-3%D0%90" title="3А" style="font-size: 107%;font-weight: 200;">3А</a> 
+				<a href="/ru/tag-40%D0%90" title="40А" style="font-size: 101%;font-weight: 200;">40А</a> 
+				<a href="/ru/tag-4%D0%90" title="4А" style="font-size: 103%;font-weight: 200;">4А</a> 
+				<a href="/ru/tag-5%D0%90" title="5А" style="font-size: 104%;font-weight: 200;">5А</a> 
+				<a href="/ru/tag-5%D0%92" title="5В" style="font-size: 126%;font-weight: 200;">5В</a> 
+				<a href="/ru/tag-6%D0%90" title="6А" style="font-size: 103%;font-weight: 200;">6А</a> 
+				<a href="/ru/tag-6%D0%92" title="6В" style="font-size: 103%;font-weight: 200;">6В</a> 
+				<a href="/ru/tag-7.5%D0%92" title="7.5В" style="font-size: 101%;font-weight: 200;">7.5В</a> 
+				<a href="/ru/tag-8.33%D0%90" title="8.33А" style="font-size: 101%;font-weight: 200;">8.33А</a> 
+				<a href="/ru/tag-9%D0%92" title="9В" style="font-size: 104%;font-weight: 200;">9В</a> 
+				<a href="/ru/tag-Arduino" title="Arduino" style="font-size: 126%;font-weight: 200;">Arduino</a> 
+				<a href="/ru/tag-Arduino%20Original" title="Arduino Original" style="font-size: 148%;font-weight: 200;">Arduino Original</a> 
+				<a href="/ru/tag-ARM" title="ARM" style="font-size: 221%;font-weight: 200;">ARM</a> 
+				<a href="/ru/tag-AVR" title="AVR" style="font-size: 144%;font-weight: 200;">AVR</a> 
+				<a href="/ru/tag-bluetooth" title="bluetooth" style="font-size: 138%;font-weight: 200;">bluetooth</a> 
+				<a href="/ru/tag-CPLD" title="CPLD" style="font-size: 106%;font-weight: 200;">CPLD</a> 
+				<a href="/ru/tag-dc-dc" title="dc-dc" style="font-size: 154%;font-weight: 200;">dc-dc</a> 
+				<a href="/ru/tag-DISCOVERY" title="DISCOVERY" style="font-size: 115%;font-weight: 200;">DISCOVERY</a> 
+				<a href="/ru/tag-DIY" title="DIY" style="font-size: 125%;font-weight: 200;">DIY</a> 
+				<a href="/ru/tag-ESP32" title="ESP32" style="font-size: 112%;font-weight: 200;">ESP32</a> 
+				<a href="/ru/tag-ESP8266" title="ESP8266" style="font-size: 137%;font-weight: 200;">ESP8266</a> 
+				<a href="/ru/tag-Ethernet" title="Ethernet" style="font-size: 123%;font-weight: 200;">Ethernet</a> 
+				<a href="/ru/tag-FPGA" title="FPGA" style="font-size: 115%;font-weight: 200;">FPGA</a> 
+				<a href="/ru/tag-FPV" title="FPV" style="font-size: 110%;font-weight: 200;">FPV</a> 
+				<a href="/ru/tag-GPS" title="GPS" style="font-size: 131%;font-weight: 200;">GPS</a> 
+				<a href="/ru/tag-GSM" title="GSM" style="font-size: 118%;font-weight: 200;">GSM</a> 
+				<a href="/ru/tag-IR" title="IR" style="font-size: 113%;font-weight: 200;">IR</a> 
+				<a href="/ru/tag-LCD" title="LCD" style="font-size: 110%;font-weight: 200;">LCD</a> 
+				<a href="/ru/tag-LED" title="LED" style="font-size: 129%;font-weight: 200;">LED</a> 
+				<a href="/ru/tag-LoRa" title="LoRa" style="font-size: 107%;font-weight: 200;">LoRa</a> 
+				<a href="/ru/tag-Micro%3ABit" title="Micro:Bit" style="font-size: 128%;font-weight: 200;">Micro:Bit</a> 
+				<a href="/ru/tag-MSP" title="MSP" style="font-size: 101%;font-weight: 200;">MSP</a> 
+				<a href="/ru/tag-Nucleo" title="Nucleo" style="font-size: 118%;font-weight: 200;">Nucleo</a> 
+				<a href="/ru/tag-NXP" title="NXP" style="font-size: 103%;font-weight: 200;">NXP</a> 
+				<a href="/ru/tag-Odroid" title="Odroid" style="font-size: 123%;font-weight: 200;">Odroid</a> 
+				<a href="/ru/tag-OrangePi" title="OrangePi" style="font-size: 140%;font-weight: 200;">OrangePi</a> 
+				<a href="/ru/tag-PIC" title="PIC" style="font-size: 104%;font-weight: 200;">PIC</a> 
+				<a href="/ru/tag-Raspberry%20Pi" title="Raspberry Pi" style="font-size: 185%;font-weight: 200;">Raspberry Pi</a> 
+				<a href="/ru/tag-RFID" title="RFID" style="font-size: 106%;font-weight: 200;">RFID</a> 
+				<a href="/ru/tag-RTC" title="RTC" style="font-size: 107%;font-weight: 200;">RTC</a> 
+				<a href="/ru/tag-SD%20card" title="SD card" style="font-size: 128%;font-weight: 200;">SD card</a> 
+				<a href="/ru/tag-servo" title="servo" style="font-size: 123%;font-weight: 200;">servo</a> 
+				<a href="/ru/tag-Sonoff" title="Sonoff" style="font-size: 156%;font-weight: 200;">Sonoff</a> 
+				<a href="/ru/tag-STEM" title="STEM" style="font-size: 173%;font-weight: 200;">STEM</a> 
+				<a href="/ru/tag-STM32" title="STM32" style="font-size: 166%;font-weight: 200;">STM32</a> 
+				<a href="/ru/tag-TFT%20LCD" title="TFT LCD" style="font-size: 156%;font-weight: 200;">TFT LCD</a> 
+				<a href="/ru/tag-Wi-Fi" title="Wi-Fi" style="font-size: 101%;font-weight: 200;">Wi-Fi</a> 
+				<a href="/ru/tag-WiFi" title="WiFi" style="font-size: 176%;font-weight: 200;">WiFi</a> 
+				<a href="/ru/tag-XBee" title="XBee" style="font-size: 128%;font-weight: 200;">XBee</a> 
+				<a href="/ru/tag-Zigbee" title="Zigbee" style="font-size: 103%;font-weight: 200;">Zigbee</a> 
+				<a href="/ru/tag-%D0%94%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80" title="Драйвер" style="font-size: 138%;font-weight: 200;">Драйвер</a> 
+				<a href="/ru/tag-%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D0%BE%D0%B5" title="Зарядное" style="font-size: 151%;font-weight: 200;">Зарядное</a> 
+				<a href="/ru/tag-%D0%98%D0%B3%D1%80%D1%83%D1%88%D0%BA%D0%B0" title="Игрушка" style="font-size: 185%;font-weight: 200;">Игрушка</a> 
+				<a href="/ru/tag-%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F" title="измерения" style="font-size: 110%;font-weight: 200;">измерения</a> 
+				<a href="/ru/tag-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82" title="инструмент" style="font-size: 122%;font-weight: 200;">инструмент</a> 
+				<a href="/ru/tag-%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8" title="Книги" style="font-size: 125%;font-weight: 200;">Книги</a> 
+				<a href="/ru/tag-%D0%BA%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B" title="коннекторы" style="font-size: 109%;font-weight: 200;">коннекторы</a> 
+				<a href="/ru/tag-%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81" title="Корпус" style="font-size: 128%;font-weight: 200;">Корпус</a> 
+				<a href="/ru/tag-%D0%9D%D0%B0%D0%B1%D0%BE%D1%80%20KIT" title="Набор KIT" style="font-size: 167%;font-weight: 200;">Набор KIT</a> 
+				<a href="/ru/tag-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA" title="переходник" style="font-size: 119%;font-weight: 200;">переходник</a> 
+				<a href="/ru/tag-%D0%9F%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5" title="Питание" style="font-size: 113%;font-weight: 200;">Питание</a> 
+				<a href="/ru/tag-%D1%80%D0%B5%D0%BB%D0%B5" title="реле" style="font-size: 118%;font-weight: 200;">реле</a> 
+				<a href="/ru/tag-%D0%A8%D0%B0%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9" title="Шаговый" style="font-size: 145%;font-weight: 200;">Шаговый</a> 
+	</div>
+<div class="clear"></div>
+
+
+
+<a href="/ru/inf7-skidki" title="Напиши статью и получи скидку!"><img src="/images/write-article.jpg?ver=2" onMouseOver="this.src='/images/write-article2.jpg?ver=2'" onMouseOut="this.src='/images/write-article.jpg?ver=2'" alt="Напиши статью и получи скидку!"></a>
+
+</td>
+<td style="vertical-align:top; text-align:left; padding:0 0 5px 0; width:99%;">
+
+	<div class="blockHead">
+		<h1>
+        	            	Интернет-магазин "Ардуино в Украине" - продажа Arduino, Raspberry Pi, микрокомпьютеров в Киеве и Украине
+                    </h1>
+	</div>
+
+
+<div class="block" style="width:auto;">
+<div class="subcats-wrap">
+<table class="subcats">
+<tr><td>
+<a href="/cat165-podarki" title="Подарочные сертификаты, сувениры">
+            <img src="products_pictures/catGift.jpg" alt="Подарочные сертификаты, сувениры"><br />
+    		Подарочные сертификаты, сувениры
+</a>
+</td>
+<td>
+<a href="/cat2-arduinokontrolleri" title="Arduino контроллеры">
+            <img src="products_pictures/cat-arduino.jpg" alt="Arduino контроллеры"><br />
+    		Arduino контроллеры
+</a>
+</td>
+<td>
+<a href="/cat15-mini-komputeri" title="Мини-компьютеры">
+            <img src="products_pictures/cat-minicomputers.jpg" alt="Мини-компьютеры"><br />
+    		Мини-компьютеры
+</a>
+</td>
+<td>
+<a href="/cat387-ohoronna-sistema" title="Охранная система Ajax">
+            <img src="products_pictures/cat-ajax-main.jpg" alt="Охранная система Ajax"><br />
+    		Охранная система Ajax
+</a>
+</td>
+<td>
+<a href="/cat12-sredstva-razrabotki-programmatori" title="Средства разработки, программаторы">
+            <img src="products_pictures/cat-sredstva-razraba.jpg" alt="Средства разработки, программаторы"><br />
+    		Средства разработки, программаторы
+</a>
+</td>
+</tr><tr><td>
+<a href="/cat327-karti-pamyati-sd" title="Карты памяти SD, Флешки">
+            <img src="products_pictures/cat327.jpg" alt="Карты памяти SD, Флешки"><br />
+    		Карты памяти SD, Флешки
+</a>
+</td>
+<td>
+<a href="/cat56-nabori" title="Наборы (DIY Kits), конструкторы">
+            <img src="products_pictures/cat-nabori.jpg" alt="Наборы (DIY Kits), конструкторы"><br />
+    		Наборы (DIY Kits), конструкторы
+</a>
+</td>
+<td>
+<a href="/cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee" title="RF, Wi-Fi, Bluetooth, GSM, GPS, FM, XBee">
+            <img src="products_pictures/cat_rf.jpg" alt="RF, Wi-Fi, Bluetooth, GSM, GPS, FM, XBee"><br />
+    		RF, Wi-Fi, Bluetooth, GSM, GPS, FM, XBee
+</a>
+</td>
+<td>
+<a href="/cat193-sonoff-ymnii-dom" title="SONOFF Умный дом">
+            <img src="products_pictures/catSonoff.jpg" alt="SONOFF Умный дом"><br />
+    		SONOFF Умный дом
+</a>
+</td>
+<td>
+<a href="/cat14-displei" title="Дисплеи">
+            <img src="products_pictures/ekrani_i_svetodiodi.jpg" alt="Дисплеи"><br />
+    		Дисплеи
+</a>
+</td>
+</tr><tr><td>
+<a href="/cat343-zvyk-mp3" title="Звук, mp3">
+            <img src="products_pictures/cat343-audio-zvyk-mp3.jpg" alt="Звук, mp3"><br />
+    		Звук, mp3
+</a>
+</td>
+<td>
+<a href="/cat6-atchiki" title="Датчики">
+            <img src="products_pictures/cat-datchiki.jpg" alt="Датчики"><br />
+    		Датчики
+</a>
+</td>
+<td>
+<a href="/cat9-robototehnika" title="Робототехника">
+            <img src="products_pictures/cat-robototechnika.jpg" alt="Робототехника"><br />
+    		Робототехника
+</a>
+</td>
+<td>
+<a href="/cat261-motori-shagovie-dvigateli-servoprivodi-draivera" title="Двигатели, драйверы">
+            <img src="products_pictures/cat261-motori.jpg" alt="Двигатели, драйверы"><br />
+    		Двигатели, драйверы
+</a>
+</td>
+<td>
+<a href="/cat298-nasosi-pompi-elektromagnitnie-klapani" title="Насосы, помпы, электромагнитные клапаны">
+            <img src="products_pictures/cat298.jpg" alt="Насосы, помпы, электромагнитные клапаны"><br />
+    		Насосы, помпы, электромагнитные клапаны
+</a>
+</td>
+</tr><tr><td>
+<a href="/cat4-kabeli-provoda-perehodniki-shnyri-pitaniya-habi" title="Кабели, провода, переходники, шнуры питания, хабы">
+            <img src="products_pictures/Cat-cables.jpg" alt="Кабели, провода, переходники, шнуры питания, хабы"><br />
+    		Кабели, провода, переходники, шнуры питания, хабы
+</a>
+</td>
+<td>
+<a href="/cat11-aketirovanie" title="Макетирование">
+            <img src="products_pictures/maketirovanie.jpg" alt="Макетирование"><br />
+    		Макетирование
+</a>
+</td>
+<td>
+<a href="/cat276-razemi-konnektori-klemmniki" title="Разъемы, коннекторы, клеммники">
+            <img src="products_pictures/cat276-razemi-konnektori.jpg" alt="Разъемы, коннекторы, клеммники"><br />
+    		Разъемы, коннекторы, клеммники
+</a>
+</td>
+<td>
+<a href="/cat10-radiodetali" title="Радиодетали">
+            <img src="products_pictures/cat-radiodetali.jpg" alt="Радиодетали"><br />
+    		Радиодетали
+</a>
+</td>
+<td>
+<a href="/cat67-rele" title="Реле">
+            <img src="products_pictures/RelayCat.jpg" alt="Реле"><br />
+    		Реле
+</a>
+</td>
+</tr><tr><td>
+<a href="/cat295-vimikachi-peremikachi-knopki" title="Выключатели, переключатели, кнопки">
+            <img src="products_pictures/cat295.jpg" alt="Выключатели, переключатели, кнопки"><br />
+    		Выключатели, переключатели, кнопки
+</a>
+</td>
+<td>
+<a href="/cat68-perehodniki-konvertori" title="Конвертеры, преобразователи">
+            <img src="products_pictures/ConvertorsCat.jpg" alt="Конвертеры, преобразователи"><br />
+    		Конвертеры, преобразователи
+</a>
+</td>
+<td>
+<a href="/cat259-led" title="LED">
+            <img src="products_pictures/LED-Bulb.jpg" alt="LED"><br />
+    		LED
+</a>
+</td>
+<td>
+<a href="/cat378-elektrojivlennya" title="Электропитание">
+    		Электропитание
+</a>
+</td>
+<td>
+<a href="/cat179-ystroistva-vvoda-klaviatyri-djoistiki" title="Устройства ввода, клавиатуры, джойстики">
+            <img src="products_pictures/cat179.jpg" alt="Устройства ввода, клавиатуры, джойстики"><br />
+    		Устройства ввода, клавиатуры, джойстики
+</a>
+</td>
+</tr><tr><td>
+<a href="/cat35-etaushhieapparati" title="Детали для летающих аппаратов">
+            <img src="products_pictures/UAV_cat.jpg" alt="Детали для летающих аппаратов"><br />
+    		Детали для летающих аппаратов
+</a>
+</td>
+<td>
+<a href="/cat186-ohlajdenie" title="Охлаждение">
+            <img src="products_pictures/cat186.jpg" alt="Охлаждение"><br />
+    		Охлаждение
+</a>
+</td>
+<td>
+<a href="/cat382-instrymenti-obladnannya" title="Инструменты, оборудование">
+    		Инструменты, оборудование
+</a>
+</td>
+<td>
+<a href="/cat65-gotovie-ystroistva" title="Готовые устройства">
+            <img src="products_pictures/cat-devices.jpg" alt="Готовые устройства"><br />
+    		Готовые устройства
+</a>
+</td>
+<td>
+<a href="/cat373-3d" title="3D">
+    		3D
+</a>
+</td>
+</tr><tr><td>
+<a href="/cat8-rochee" title="Прочее">
+            <img src="products_pictures/procheeCat2.jpg" alt="Прочее"><br />
+    		Прочее
+</a>
+</td>
+<td>
+<a href="/cat71-literatyra" title="Литература">
+            <img src="products_pictures/cat-literatura.jpg" alt="Литература"><br />
+    		Литература
+</a>
+</td>
+<td>
+<a href="/cat184-korpysa-yniversalnie-nojki" title="Корпуса универсальные, ножки">
+            <img src="products_pictures/cat_cases.jpg" alt="Корпуса универсальные, ножки"><br />
+    		Корпуса универсальные, ножки
+</a>
+</td>
+<td>
+<a href="/cat17-rasprodaja" title="Распродажа">
+            <img src="products_pictures/rasprodazha.jpg" alt="Распродажа"><br />
+    		Распродажа
+</a>
+</td>
+<td>
+<a href="/cat134-arhivnie-tovari" title="Архивные товары">
+            <img src="products_pictures/cat134.jpg" alt="Архивные товары"><br />
+    		Архивные товары
+</a>
+</td>
+</tr></table>
+</div>
+
+<div class="brands_list">
+	<a href="/ru/brand/ai-thinker" title="Ai-Thinker">
+		<img src="/images/logos/Ai-Thinker.jpg" alt="Ai-Thinker" title="Ai-Thinker">
+	</a>
+	<a href="/ru/brand/atten" title="Atten">
+		<img src="/images/logos/Atten.jpg" alt="Atten" title="Atten">
+	</a>
+	<a href="/ru/brand/bbc-microbit" title="BBC Micro:bit">
+		<img src="/images/logos/Microbit.jpg" alt="BBC Micro:bit" title="BBC Micro:bit">
+	</a>
+	<a href="/ru/brand/beaglebone" title="BeagleBone">
+		<img src="/images/logos/BeagleBone.jpg" alt="BeagleBone" title="BeagleBone">
+	</a>
+	<a href="/ru/brand/bside" title="Bside">
+		<img src="/images/logos/Bside.jpg" alt="Bside" title="Bside">
+	</a>
+	<a href="/ru/brand/fnirsi" title="Fnirsi">
+		<img src="/images/logos/Fnirsi.jpg" alt="Fnirsi" title="Fnirsi">
+	</a>
+	<a href="/ru/brand/frsky" title="FrSky">
+		<img src="/images/logos/FrSky.jpg" alt="FrSky" title="FrSky">
+	</a>
+	<a href="/ru/brand/hardkernel-odroid" title="Hardkernel Odroid">
+		<img src="/images/logos/Odroid.jpg" alt="Hardkernel Odroid" title="Hardkernel Odroid">
+	</a>
+	<a href="/ru/brand/henkel" title="Henkel">
+		<img src="/images/logos/Henkel.jpg" alt="Henkel" title="Henkel">
+	</a>
+	<a href="/ru/brand/liitokala" title="Liitokala">
+		<img src="/images/logos/liitokala.jpg" alt="Liitokala" title="Liitokala">
+	</a>
+	<a href="/ru/brand/makeblock" title="Makeblock">
+		<img src="/images/logos/Makeblock.jpg" alt="Makeblock" title="Makeblock">
+	</a>
+	<a href="/ru/brand/miniware" title="Miniware">
+		<img src="/images/logos/Miniware.jpg" alt="Miniware" title="Miniware">
+	</a>
+	<a href="/ru/brand/nvidia" title="nVidia">
+		<img src="/images/logos/nVidia.jpg" alt="nVidia" title="nVidia">
+	</a>
+	<a href="/ru/brand/orange-pi" title="Orange Pi">
+		<img src="/images/logos/OrangePi.jpg" alt="Orange Pi" title="Orange Pi">
+	</a>
+	<a href="/ru/brand/pine-64" title="Pine 64">
+		<img src="/images/logos/pine64.jpg" alt="Pine 64" title="Pine 64">
+	</a>
+	<a href="/ru/brand/plusivo" title="Plusivo">
+		<img src="/images/logos/Plusivo.jpg" alt="Plusivo" title="Plusivo">
+	</a>
+	<a href="/ru/brand/prolum" title="Prolum">
+		<img src="/images/logos/Prolum.jpg" alt="Prolum" title="Prolum">
+	</a>
+	<a href="/ru/brand/raspberry-pi-foundation" title="Raspberry Pi Foundation">
+		<img src="/images/logos/rasberry-pi.jpg" alt="Raspberry Pi Foundation" title="Raspberry Pi Foundation">
+	</a>
+	<a href="/ru/brand/richmeters" title="Richmeters">
+		<img src="/images/logos/Richmeters.jpg" alt="Richmeters" title="Richmeters">
+	</a>
+	<a href="/ru/brand/sandisk" title="SanDisk">
+		<img src="/images/logos/SanDisk.jpg" alt="SanDisk" title="SanDisk">
+	</a>
+	<a href="/ru/brand/sequre" title="Sequre">
+		<img src="/images/logos/Sequre.jpg" alt="Sequre" title="Sequre">
+	</a>
+	<a href="/ru/brand/sonoff" title="SonOff">
+		<img src="/images/logos/SonOff.jpg" alt="SonOff" title="SonOff">
+	</a>
+	<a href="/ru/brand/sunfounder" title="SunFounder">
+		<img src="/images/logos/SunFounder.jpg" alt="SunFounder" title="SunFounder">
+	</a>
+	<a href="/ru/brand/uni-t" title="UNI-T">
+		<img src="/images/logos/UNI-T.jpg" alt="UNI-T" title="UNI-T">
+	</a>
+	<a href="/ru/brand/waveshare" title="Waveshare">
+		<img src="/images/logos/Waveshare.jpg" alt="Waveshare" title="Waveshare">
+	</a>
+	<a href="/ru/brand/adafruit" title="adafruit">
+		<img src="/images/logos/adafruit.jpg" alt="adafruit" title="adafruit">
+	</a>
+	<a href="/ru/brand/dfrobot" title="DFRobot">
+		<img src="/images/logos/dfrobot.jpg" alt="DFRobot" title="DFRobot">
+	</a>
+	<a href="/ru/brand/elecrow" title="Elecrow">
+		<img src="/images/logos/Elecrow.jpg" alt="Elecrow" title="Elecrow">
+	</a>
+	<a href="/ru/brand/friendlyarm" title="FriendlyARM">
+		<img src="/images/logos/FriendlyARM.jpg" alt="FriendlyARM" title="FriendlyARM">
+	</a>
+	<a href="/ru/brand/intertool" title="intertool">
+		<img src="/images/logos/intertool.jpg" alt="intertool" title="intertool">
+	</a>
+	<a href="/ru/brand/itead" title="Itead">
+		<img src="/images/logos/itead.jpg" alt="Itead" title="Itead">
+	</a>
+	<a href="/ru/brand/keyestudio" title="Keyestudio">
+		<img src="/images/logos/Keyestudio.jpg" alt="Keyestudio" title="Keyestudio">
+	</a>
+	<a href="/ru/brand/m5stack" title="M5Stack на ESP32">
+		<img src="/images/logos/M5Stack.jpg" alt="M5Stack на ESP32" title="M5Stack на ESP32">
+	</a>
+	<a href="/ru/brand/pololu" title="pololu">
+		<img src="/images/logos/pololu.jpg" alt="pololu" title="pololu">
+	</a>
+	<a href="/ru/brand/sparkfun" title="Sparkfun">
+		<img src="/images/logos/sparkfun.jpg" alt="Sparkfun" title="Sparkfun">
+	</a>
+	<a href="/ru/brand/monofilament" title="Monofilament">
+		<img src="/images/logos/Monofilament.jpg" alt="Monofilament" title="Monofilament">
+	</a>
+	<a href="/ru/brand/plexiwire" title="Plexiwire">
+		<img src="/images/logos/Plexiwire.jpg" alt="Plexiwire" title="Plexiwire">
+	</a>
+	<a href="/ru/brand/atmel" title="Atmel">
+		<img src="/images/logos/Atmel.jpg" alt="Atmel" title="Atmel">
+	</a>
+	<a href="/ru/brand/hobby-king" title="HK">
+		<img src="/images/logos/HK.jpg" alt="HK" title="HK">
+	</a>
+	<a href="/ru/brand/stmicroelectronics" title="STMicroelectronics">
+		<img src="/images/logos/Stm32.jpg" alt="STMicroelectronics" title="STMicroelectronics">
+	</a>
+	<a href="/ru/brand/bitkit" title="BitKit">
+		<img src="/images/logos/BitKit.jpg" alt="BitKit" title="BitKit">
+	</a>
+	<a href="/ru/brand/rfdesign" title="RFDesign">
+		<img src="/images/logos/RFDesign.jpg" alt="RFDesign" title="RFDesign">
+	</a>
+	<a href="/ru/brand/skyrc" title="SkyRc">
+		<img src="/images/logos/SkyRc.jpg" alt="SkyRc" title="SkyRc">
+	</a>
+	<a href="/ru/brand/power-hd" title="Power HD">
+		<img src="/images/logos/PowerHD.jpg" alt="Power HD" title="Power HD">
+	</a>
+	<a href="/ru/brand/sunnysky" title="Sunnysky">
+		<img src="/images/logos/Sunnysky.jpg" alt="Sunnysky" title="Sunnysky">
+	</a>
+</div></div>
+<div class="clear"></div>
+
+</td>
+
+</tr>
+</table>
+</div><!--#content-->
+
+<div style="border-top:2px solid black; height:1px; border-bottom:1px solid #999;"></div>
+<div style="float:left; margin-top:20px;">
+<ul class="bottom-menu">
+<li><a href="/ru/" title="Главная">Главная</a></li>
+<li><a href="/ru/inf4-garantiya" title="Гарантийные условия">Гарантийные условия</a></li>
+<li>                                                <a href="/ru/index.php?register=yes">Регистрация</a> 
+                        </li>
+<li><a href="/ru/index.php?show_price=yes" title="Прайс-лист">Прайс-лист</a></li>
+<li><a href="/ru/feedback" title="Обратная связь">Обратная связь</a></li>
+<li><a href="/ru/?mobile" title="Мобильная версия">Мобильная версия</a></li>
+<li><a href="/ru/inf10-dogovor-pyblichnoi-oferti" title="Договор публичной оферты">Договор публичной оферты</a></li>
+</ul>
+</div>
+<div style="float:right; margin-top:20px;"><img src="/images/viza-master.png" alt="оплата картами Visa и MasterCard" title="У нас можно оплатить товар Visa и MasterCard" /></div>
+<div style="clear:both;"></div>
+</div>
+
+<script>
+
+$( ".office" ).mouseover(function() {
+	$("a.enter").css('color','#000');							  
+  	$( ".office" ).addClass('office_block');
+  	$( ".office_popup" ).addClass('office_popup_block');
+});
+$(document).mouseup(function (e){ // событие клика по веб-документу
+		var div = $(".office_popup"); // тут указываем ID элемента
+		if (!div.is(e.target) // если клик был не по нашему блоку
+		    && div.has(e.target).length === 0) { // и не по его дочерним элементам
+			$("a.enter").css('color','#ffffff');
+			$(".office").removeClass('office_block');
+ 			$(".office_popup").removeClass('office_popup_block');
+		}
+	});
+
+</script>
+
+
+<div id="popupBasket" style="margin:0px;padding:0px;"></div>
+<div id="backgroundPopup" onClick="disablePopupQS();"></div>
+
+<a id="back-top" href="#top"></a>
+
+</body>
+
+
+
+
+
+</html>
